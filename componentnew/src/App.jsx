@@ -2,6 +2,7 @@ import Counters from "./component/Counter"
 import Employee from "./component/Employee"
 import Student from "./StuDetaisUsingProps"
 import TestImage from "./assets/TestImage.jpg";
+import Header from "./component/header/Header";
 
 function App() {
  
@@ -14,7 +15,7 @@ function App() {
      >
       
      </Student>
-
+     <Header></Header>  
 
     </>
   )

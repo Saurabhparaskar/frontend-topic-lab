@@ -41,6 +41,7 @@ const Employee=()=>{
             <h1>Email :{email}</h1><br/>
             <h1>salary :{salary}</h1><br/>
             <h1>Date :{date}</h1><br/>
+            <h1><br /></h1>
 
             </>
     )

@@ -1,0 +1,33 @@
+
+.header{
+    background-color: lightseagreen;
+    display: flex;
+    align-items: center;justify-content: space-between;
+    padding: 10px 20px;
+    margin: 5px;
+}
+.line{
+
+    text-align: center;
+    font-size: medium;
+    text-decoration: underline;
+    color: brown;
+}
+.btn {
+  background: linear-gradient(135deg, #ff0080, #ff4d4d);
+  color: white;
+  padding: 12px 24px;
+  border: none;
+  border-radius: 8px;
+  font-size: 16px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  box-shadow: 0 4px 10px rgba(255, 0, 128, 0.3);
+  width: 100px;;
+}
+.btn:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 14px rgba(255, 0, 128, 0.5);
+  background: linear-gradient(135deg, #ff1a8c, #ff6666);
+}

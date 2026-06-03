@@ -28,7 +28,7 @@ const App =()=>{
 
        }} type="text " placeholder="Enter name "></input>
        
-        </div>
+        </div> 
     )
 }
 
